@@ -1,0 +1,4 @@
+/*Initializing tailwind functionalities*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
