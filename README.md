@@ -1,11 +1,21 @@
 # DOODLE
-A new web search engine! (A Google Clone)
 
-### Technologies
+A web search engine mimicking Google.
 
-* React.JS
-* TailWindCSS
-* Node  <br /> <br />
 
-* APIs:
-    * Google Search
+## Tech Stack
+
+**Client:** React, TailWindCSS
+
+**Server:** Node, Google Search API
+
+
+## Features
+
+- Filter search results for images, videos, or news.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
